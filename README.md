@@ -1,5 +1,5 @@
 # Proyecto de Investigación: Aplicación de una carta de control basada en atributos para el problema de las bolsas de papel en una empresa local
-
+Edgar Antonio de León Ramirez
 ## Descripción del proyecto
 
 El proyecto de investigación modela una carta de control innovadora para monitorear variables de interés en un proceso de manufactura que involucra bolsas de papel en una empresa local y así encontrar soluciones optimas para el problema oculto.
