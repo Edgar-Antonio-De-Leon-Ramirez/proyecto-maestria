@@ -1,5 +1,3 @@
-`Edgar Antonio De León Ramírez`
-
 # Proyecto de Investigación: Aplicación de una carta de control basada en atributos para el problema de las bolsas de papel en una empresa local
 
 ## Descripción del proyecto
