@@ -1,6 +1,6 @@
 # Proyecto de Investigación: Aplicación de una carta de control basada en atributos para el problema de las bolsas de papel en una empresa local
 
-`Edgar Antonio De León Ramírez`
+Nombre del autor: `Edgar Antonio De León Ramírez`
 
 ## Descripción del proyecto
 
@@ -21,10 +21,24 @@ El proyecto de investigación modela una carta de control innovadora para monito
 
 ## Sobre como citar el proyecto
 
-Si se hace uso del software y archivos incluidos en este repositorio, por favor citarlo en sus proyectos. En la barra lateral derecha de la página principal del repositorio "proyecto-maestria" puede encontrar la opción "Cite this repository". De click y copie la cita que se genera en la opción (APA o la otra). Asimismo, se adjunta en el README la cita en APA y la otra. 
+Si se hace uso del software y archivos incluidos en este repositorio, por favor citarlo en sus proyectos. En la barra lateral derecha de la página principal del repositorio `proyecto-maestria` puede encontrar la opción `Cite this repository`. De click y copie la cita que se genera en dicha opción, ya sea formato APA o BibTeX. 
 
-APA:
-`De León Ramírez, E. A. (2026). Aplicación de una carta de control basada en atributos para el problema de las bolsas de papel en una empresa local (Version v1.0-fase1) [Computer software]. https://github.com/Edgar-Antonio-De-Leon-Ramirez/proyecto-maestria`
+Asimismo, se incluyen ambos formatos de cita en el README. 
+
+`APA`:
+
+De León Ramírez, E. A. (2026). Aplicación de una carta de control basada en atributos para el problema de las bolsas de papel en una empresa local (Version v1.0-fase1) [Computer software]. https://github.com/Edgar-Antonio-De-Leon-Ramirez/proyecto-maestria
+
+`BibTeX`:
+
+@software{De_Leon_Ramirez_Aplicacion_de_una_2026,
+author = {De León Ramírez, Edgar Antonio},
+month = aug,
+title = {{Aplicación de una carta de control basada en atributos para el problema de las bolsas de papel en una empresa local}},
+url = {https://github.com/Edgar-Antonio-De-Leon-Ramirez/proyecto-maestria},
+version = {v1.0-fase1},
+year = {2026}
+}
 
 ## Licencia
 
