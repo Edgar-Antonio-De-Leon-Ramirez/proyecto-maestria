@@ -1,10 +1,11 @@
 cff-version: 1.2.0
-message: "Si usas este software, favor de citarlo de la siguiente manera."
+message: "Si haces uso de este software, favor de citarlo de la siguiente manera."
 authors:
 - family-names: "De León Ramírez"
   given-names: "Edgar Antonio"
-title: "Repositorio proyecto-maestria"
-version: 1.0-fase1
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "proyecto-maestria"
+version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2026-08-30
 url: "https://github.com/Edgar-Antonio-De-Leon-Ramirez/proyecto-maestria"
