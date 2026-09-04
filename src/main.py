@@ -3,4 +3,4 @@
 x = 0
 
 def placeholder(x):
-  return x
+  return x*2
